@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# original by Alessio Onori
+
 CURRENT_DIR=$(dirname "$0")
 cd $CURRENT_DIR 
 

@@ -9,5 +9,4 @@ cd $CURRENT_DIR
 
 source ../scripts_common_ws/source_ws.sh
 
-# ./start_development_manual.sh
-./start_development.sh
+./start_simulation.sh
